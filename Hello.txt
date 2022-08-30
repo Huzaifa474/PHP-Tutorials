@@ -1,0 +1,2 @@
+This File is created using writing mode
+ This File is created using append mode
